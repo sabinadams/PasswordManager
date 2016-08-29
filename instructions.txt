@@ -1,0 +1,26 @@
+1) Installation/Preparation
+
+	-If you don't already have it, install NodeJS from: https://nodejs.org/en/download/
+
+2)(Optional) Installing Dependencies
+	
+	-Open your terminal and run this command to have colored prompts: npm install colors
+
+3) Navigate to the program
+
+  	cd into the PasswordManager folder, wherever you saved it. To do this, open terminal and 
+  	type in "cd <PATH_TO_FOLDER>" obviously replacing the <PATH_TO_FOLDER> with the path to 
+  	the folder.
+
+4) Run the program: 
+
+	Type in "node pwManager" to start
+
+***********************************************************************************************
+
+
+
+
+
+
+		
